@@ -6,4 +6,17 @@ function sayMyName(){
     console.log("H");
     console.log("I");
 }
-sayMyName()
+//sayMyName()
+
+
+
+function addTwoNumbers(number1, number2){
+    console.log(number1+number2);
+}
+addTwoNumbers(1098, 123)
+
+function addTwoNumbers(number1, number2){
+    console.log(number1+number2);
+}
+addTwoNumbers(108, "123")
+
